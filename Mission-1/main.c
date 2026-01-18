@@ -108,7 +108,6 @@ int main() {
     return 0;
 }
 
-// --- Logic Implementation ---
 
 void apply_transition_outputs(States st, Outputs *out) {
     switch (st) {
